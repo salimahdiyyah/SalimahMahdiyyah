@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Salimah Mahdiyyah**.<br>
 
-Saya seorang **Mahasiswa Semester 5** di Universitas Indraprasta PGRI.<br>
+Saya seorang **Mahasiswa Semester 5**.<br>
 
 Saya sedang mengikuti program kampus merdeka yaitu Studi Independen dengan mitra [RevoU](https://revou.co/).<br>
 
